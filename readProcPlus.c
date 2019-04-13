@@ -1,11 +1,6 @@
 
 // Part C3
 
-/*
- * Srilakshmi Shivakumar
- * Sushmitha Shridhar
- */
-
 #include <time.h>
 #include <stdio.h>
 #include <unistd.h>
